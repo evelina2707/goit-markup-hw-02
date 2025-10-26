@@ -8,6 +8,8 @@ a {
 
 body {
   font-family: "Roboto", sans-serif;
+  color: #434455;
+  background-color: #FFFFFF;
 }
 
 
@@ -77,8 +79,6 @@ body {
 
 .main-section {
   background-color: #2e2f42;
-  width: 1440px;
-  height: 600px;
 }
 
 .main-title {
@@ -97,8 +97,6 @@ body {
   letter-spacing: 0.04em;
   color: #fff;
   background: #4d5ae5;
-  width: 169px;
-  height: 56px;
   cursor: pointer;
 }
 
@@ -130,8 +128,6 @@ body {
 
 .section-team {
   background: #f4f4fd;
-  width: 1440px;
-  height: 732px;
 }
 
 .section-title {
@@ -146,8 +142,6 @@ body {
 
 .menu-card {
   background-color: #fff;
-  width: 264px;
-  height: 380px;
 }
 
 
@@ -188,8 +182,6 @@ body {
 
 .footer {
   background: #2e2f42;
-  width: 1440px;
-  height: 312px;
 }
 
 .logo-footer {
@@ -200,6 +192,10 @@ body {
   letter-spacing: 0.03em;
   color: #4d5ae5;
   text-transform: uppercase;
+}
+
+.color-logo {
+  color: #f4f4fd;
 }
 
 .text-footer {
