@@ -12,6 +12,14 @@ body {
   background-color: #FFFFFF;
 }
 
+.container {
+  max-width: 1458px;
+  width: 100%;
+  padding-left:  
+  padding-right:  
+  margin-left:  
+  margin-right: 
+}
 
 /* #region header */
 
